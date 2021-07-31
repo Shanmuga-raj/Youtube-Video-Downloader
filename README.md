@@ -22,4 +22,4 @@ A Simple Terminal App to Download Youtube Videos and Playlist with subtitles usi
 
 ***
 
-***Check me on:*** [LinkedIn](https://www.linkedin.com/in/its-me-shanmuga-raj/), [reddit](https://www.reddit.com/user/Shanmuga-raj), [Keybase](https://keybase.io/shanmugaraj).
+***Check me on:*** [LinkedIn](https://www.linkedin.com/in/its-shanmugaraj/), [reddit](https://www.reddit.com/user/Shanmuga-raj), [Keybase](https://keybase.io/shanmugaraj).
